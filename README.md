@@ -4,5 +4,6 @@
 ##
 #elflink.c
 this file is in binutils/bfd in order to output symbols info after reloc.
+##
 #vimtype
 this file is vim's type. name change .vimrc
